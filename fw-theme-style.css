@@ -1858,6 +1858,7 @@ body > div.conteiner-principal > div.secao-banners > div > div > div {
   line-height: 40px;
   padding: 0 40px;
   font-weight: 700;
+  text-transform: uppercase;
 }
 
 .botao-secundario-fw:hover {
