@@ -11,6 +11,7 @@
   --icons-colors:#555555;
   --background-color: #f5f5f5;
   --details-color: #c1aeae;
+  --text-secondary-color: #666666;
   --margin-base: 25em;
   --main-font: "Montserrat", sans-serif;
   --segunda-fonte: "Playfair Display", serif;
@@ -909,6 +910,7 @@ body
   display: flex;
   align-items: center;
   gap: 1em;
+  color: #666666;
 }
 
 .redes-icons i {
